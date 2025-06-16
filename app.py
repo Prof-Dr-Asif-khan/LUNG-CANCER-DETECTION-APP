@@ -74,10 +74,10 @@ st.markdown("""
 
 # Color mapping for different classes
 CLASS_COLORS = {
-    "Benign case": "#2ecc71",  # Green
+    "Bengin case": "#2ecc71",  # Green
     "Malignant case": "#e74c3c",  # Red
     "Normal case": "#00ffdd",  # Cyan
-    "Benign case Malignant case": ["#2ecc71", "#e74c3c"],  # Green + Red
+    "Bengin case Malignant case": ["#2ecc71", "#e74c3c"],  # Green + Red
     "Malignant case Normal case": ["#e74c3c", "#00ffdd"]  # Red + Cyan
 }
 
